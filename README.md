@@ -4,3 +4,8 @@
 
 
 运行两个文件中的node.js
+
+
+
+
+taobao跨域访问baidu 
